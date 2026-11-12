@@ -1,12 +1,12 @@
 # tuantruong.fyi
 
-Personal website of Minh Tuan Truong: finance, FP&A and the AI systems I build for finance teams.
+My personal website: finance, FP&A and the AI systems I build for finance teams.
 
 Live at **[tuantruong.fyi](https://tuantruong.fyi)**
 
 ## What it is
 
-A single-page portfolio for finance and business leaders. It covers who I am, the projects I'm building, business impact from my finance work, my resume and how to get in touch.
+A single-page portfolio that covers who I am, the projects I'm building, business impact from my finance work, my resume and how to get in touch.
 
 ## How it's built
 
